@@ -1,2 +1,2 @@
-echo "git pull origin"> up_to_date
+echo "git pull origin" > up_to_date
 
