@@ -1,2 +1,2 @@
-git pull
+echo "git pull origin" >up_to_date
 
